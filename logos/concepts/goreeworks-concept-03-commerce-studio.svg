@@ -1,0 +1,13 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">GoreeWorks Concept 03 — Commerce Studio</title>
+<desc id="desc">A modular GoreeWorks identity using planar package and layout geometry with a single blue top panel.</desc>
+<g transform="translate(98 58)">
+  <path d="M180 22L318 96L180 170L42 96L180 22Z" fill="#2457FF"/>
+  <path d="M42 116L160 180V344L42 280V116Z" fill="#111318"/>
+  <path d="M318 116L200 180V248L264 214V270L200 304V344L318 280V116Z" fill="#111318"/>
+  <path d="M160 180L180 191L200 180V344L180 355L160 344V180Z" fill="#F4F2EC"/>
+  <path d="M200 248L244 224L264 236V270L200 304V248Z" fill="#F4F2EC"/>
+</g>
+<text x="560" y="292" fill="#111318" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="164" font-weight="700" letter-spacing="-8">Goree</text>
+<text x="955" y="292" fill="#2457FF" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="164" font-weight="700" letter-spacing="-8">Works</text>
+</svg>
