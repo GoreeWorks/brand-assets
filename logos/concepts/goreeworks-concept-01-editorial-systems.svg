@@ -1,0 +1,10 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">GoreeWorks Concept 01 — Editorial Systems</title>
+<desc id="desc">A restrained modernist GoreeWorks identity with a custom GW construction and one blue accent.</desc>
+<g transform="translate(92 72)">
+  <path d="M34 38H172C218 38 254 74 254 120V146H198V122C198 105 185 92 168 92H92C75 92 62 105 62 122V234C62 251 75 264 92 264H168C185 264 198 251 198 234V210H132V158H254V236C254 282 218 318 172 318H34C18 318 6 306 6 290V66C6 50 18 38 34 38Z" fill="#111318"/>
+  <path d="M296 38H352L392 216L432 38H488L432 318H372L324 120L276 318H216L296 38Z" fill="#111318"/>
+  <path d="M432 38H488L470 128H414L432 38Z" fill="#2457FF"/>
+</g>
+<text x="640" y="292" fill="#111318" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="164" font-weight="700" letter-spacing="-8">GoreeWorks</text>
+</svg>
