@@ -1,0 +1,13 @@
+<svg width="1700" height="520" viewBox="0 0 1700 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">GoreeWorks Concept 02 — Modular Knot</title>
+<desc id="desc">An original three-part modular GoreeWorks symbol representing creative, commerce, and production working as one system.</desc>
+<g transform="translate(78 70)">
+  <path d="M64 64H244V122H126V244H64V64Z" fill="#0C1B33"/>
+  <path d="M150 150H330V330H268V212H150V150Z" fill="#C8FF2C"/>
+  <path d="M64 268H182V182H244V330H64V268Z" fill="#FF7A00"/>
+  <rect x="150" y="150" width="94" height="62" fill="#0C1B33"/>
+</g>
+<text x="520" y="314" fill="#0C1B33"
+      font-family="Avenir Next, Helvetica Neue, Arial, sans-serif"
+      font-size="184" font-weight="750" letter-spacing="-9">GoreeWorks</text>
+</svg>
