@@ -1,9 +1,0 @@
-<svg width="1500" height="480" viewBox="0 0 1500 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-<title id="title">GoreeWorks Concept 03 — Flow Ribbon</title>
-<desc id="desc">A fluid abstract GoreeWorks ribbon symbol representing creative flow and connected production.</desc>
-<g transform="translate(70 70)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M62 232C62 132 124 70 214 70C278 70 326 106 326 158C326 210 282 240 226 240H154C112 240 82 266 82 306" stroke="#111827" stroke-width="50"/>
-  <path d="M304 94C342 126 358 166 348 206C333 264 279 302 214 302H154C111 302 78 327 78 362" stroke="#00A884" stroke-width="38"/>
-</g>
-<text x="470" y="300" fill="#111827" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="170" font-weight="700" letter-spacing="-8">GoreeWorks</text>
-</svg>
