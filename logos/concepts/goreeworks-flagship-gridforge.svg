@@ -1,0 +1,11 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">GoreeWorks Gridforge Emblem</title>
+<desc id="desc">An abstract graphic design and commerce production emblem built from layout grid, print registration, and modular product architecture.</desc>
+<g transform="translate(160 160)">
+  <path d="M220 0H680L900 220V680L680 900H220L0 680V220L220 0Z" fill="#17233C"/>
+  <path d="M300 150H600L750 300V600L600 750H300L150 600V300L300 150Z" fill="#F7F3EA"/>
+  <path d="M360 260H540L640 360V540L540 640H360L260 540V360L360 260Z" fill="#14B8A6"/>
+  <path d="M0 220H220M680 0V220M900 680H680M220 900V680" stroke="#FF604D" stroke-width="38" stroke-linecap="square"/>
+  <circle cx="600" cy="600" r="34" fill="#17233C"/>
+</g>
+</svg>
