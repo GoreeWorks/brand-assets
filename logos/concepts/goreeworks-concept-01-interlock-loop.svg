@@ -1,0 +1,11 @@
+<svg width="1500" height="480" viewBox="0 0 1500 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">GoreeWorks Concept 01 — Interlock Loop</title>
+<desc id="desc">An abstract split-loop symbol representing creative systems working together, paired with a clean GoreeWorks wordmark.</desc>
+<g transform="translate(85 70)" fill="none" stroke-linecap="round" stroke-width="52">
+  <path d="M72 164C72 103 103 72 164 72H246" stroke="#28163B"/>
+  <path d="M164 72C225 72 256 103 256 164V246" stroke="#FF5A5F"/>
+  <path d="M256 164C256 225 225 256 164 256H82" stroke="#28163B"/>
+  <path d="M164 256C103 256 72 225 72 164V82" stroke="#FF5A5F"/>
+</g>
+<text x="460" y="300" fill="#1B1B1F" font-family="Avenir Next, Helvetica Neue, Arial, sans-serif" font-size="170" font-weight="700" letter-spacing="-8">GoreeWorks</text>
+</svg>
