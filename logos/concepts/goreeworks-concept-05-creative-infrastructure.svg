@@ -1,9 +1,0 @@
-<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
-<title>GoreeWorks Creative Infrastructure Concept</title>
-<desc>Abstract identity exploration based on modular design systems, production flow, and adaptive structure.</desc>
-<rect width="1024" height="1024" fill="white"/>
-<path d="M256 256H768V768H256V256Z" stroke="#17233C" stroke-width="64"/>
-<path d="M384 384H640V640H384V384Z" fill="#17233C"/>
-<path d="M512 256V384M512 640V768M256 512H384M640 512H768" stroke="#14B8A6" stroke-width="48" stroke-linecap="square"/>
-<path d="M384 384L640 640M640 384L384 640" stroke="#FF604D" stroke-width="32"/>
-</svg>
