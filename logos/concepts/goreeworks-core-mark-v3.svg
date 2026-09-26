@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<title>GoreeWorks Core Mark v3</title>
+<desc>Abstract production system mark based on precision layout, print alignment, and modular creative workflows.</desc>
+<rect width="512" height="512" fill="#101828"/>
+<path d="M128 96H304V128H176V336H128V96Z" fill="#F8FAFC"/>
+<path d="M176 336H352V288H224V240H320V192H224V144H352V96H176V336Z" fill="#F8FAFC"/>
+<path d="M128 336H176V384H128V336Z" fill="#14B8A6"/>
+<path d="M352 96H400V144H352V96Z" fill="#FF604D"/>
+<path d="M352 336H400V384H352V336Z" fill="#F4B01B"/>
+</svg>
